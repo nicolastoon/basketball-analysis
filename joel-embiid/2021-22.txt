@@ -1,0 +1,83 @@
+Rk,Gcar,Gtm,Date,Team,,Opp,Result,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+1,261,1,2021-10-20,PHI,@,NOP,W 117-97,*,25:42,8,17,.471,2,3,.667,6,14,.429,.529,4,6,.667,1,5,6,5,1,1,1,3,22,17.7,4
+2,262,2,2021-10-22,PHI,,BRK,L 109-114,*,29:43,6,15,.400,2,5,.400,4,10,.400,.467,5,6,.833,2,6,8,4,2,4,3,4,19,16.7,-4
+3,263,3,2021-10-24,PHI,@,OKC,W 115-103,*,33:17,8,15,.533,2,5,.400,6,10,.600,.600,4,6,.667,1,8,9,6,1,3,0,2,22,23.5,10
+4,264,4,2021-10-26,PHI,@,NYK,L 99-112,*,30:25,2,7,.286,0,2,.000,2,5,.400,.286,10,11,.909,1,5,6,3,1,1,5,1,14,10.1,-8
+5,265,5,2021-10-28,PHI,,DET,W 110-102,*,30:58,8,19,.421,1,4,.250,7,15,.467,.447,13,15,.867,5,13,18,3,1,0,4,2,30,24.8,14
+6,266,6,2021-10-30,PHI,,ATL,W 122-94,*,29:43,5,13,.385,1,4,.250,4,9,.444,.423,8,9,.889,0,5,5,2,0,1,2,1,19,12.7,21
+6,,7,2021-11-01,PHI,,POR,W 113-103,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+7,267,8,2021-11-03,PHI,,CHI,W 103-98,*,34:05,6,18,.333,1,5,.200,5,13,.385,.361,5,9,.556,1,8,9,7,1,1,4,3,18,10.7,10
+8,268,9,2021-11-04,PHI,@,DET,W 109-98,*,30:02,6,15,.400,0,0,,6,15,.400,.400,7,8,.875,4,5,9,3,1,0,2,3,19,14.7,-9
+9,269,10,2021-11-06,PHI,@,CHI,W 114-105,*,34:02,11,19,.579,4,5,.800,7,14,.500,.684,4,7,.571,1,15,16,3,0,2,6,1,30,22.2,16
+9,,11,2021-11-08,PHI,,NYK,L 96-103,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,12,2021-11-09,PHI,,MIL,L 109-118,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,13,2021-11-11,PHI,,TOR,L 109-115,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,14,2021-11-13,PHI,@,IND,L 113-118,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,15,2021-11-16,PHI,@,UTA,L 85-120,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,16,2021-11-18,PHI,@,DEN,W 103-89,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,17,2021-11-20,PHI,@,POR,L 111-118,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,18,2021-11-22,PHI,@,SAC,W 102-94,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,19,2021-11-24,PHI,@,GSW,L 96-116,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+10,270,20,2021-11-27,PHI,,MIN,L 120-121 (2OT),*,45:26,12,23,.522,2,4,.500,10,19,.526,.565,16,21,.762,2,12,14,3,1,2,4,4,42,32.6,11
+11,271,21,2021-11-29,PHI,,ORL,W 101-96,*,29:45,4,16,.250,1,2,.500,3,14,.214,.281,7,10,.700,4,9,13,5,0,2,3,4,16,11.0,1
+12,272,22,2021-12-01,PHI,@,BOS,L 87-88,*,33:14,3,17,.176,1,3,.333,2,14,.143,.206,6,10,.600,4,14,18,6,2,3,0,1,13,15.6,-9
+13,273,23,2021-12-03,PHI,@,ATL,W 98-96,*,36:08,10,23,.435,1,3,.333,9,20,.450,.457,7,8,.875,1,11,12,4,1,2,3,4,28,20.1,15
+14,274,24,2021-12-06,PHI,@,CHO,W 127-124 (OT),*,40:40,15,20,.750,1,2,.500,14,18,.778,.775,12,14,.857,1,14,15,7,1,0,3,3,43,40.8,7
+15,275,25,2021-12-08,PHI,@,CHO,W 110-106,*,32:32,8,17,.471,1,2,.500,7,15,.467,.500,15,19,.789,1,7,8,4,1,0,1,4,32,25.7,-1
+16,276,26,2021-12-09,PHI,,UTA,L 96-118,*,30:14,8,18,.444,1,4,.250,7,14,.500,.472,2,2,1.000,1,8,9,2,3,1,1,4,19,15.2,-3
+17,277,27,2021-12-11,PHI,,GSW,W 102-93,*,32:31,7,16,.438,1,4,.250,6,12,.500,.469,11,11,1.000,0,9,9,4,2,0,4,3,26,19.9,-9
+17,,28,2021-12-13,PHI,@,MEM,L 91-126,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+18,278,29,2021-12-15,PHI,,MIA,L 96-101,*,37:06,5,13,.385,1,5,.200,4,8,.500,.423,6,6,1.000,1,13,14,5,1,1,1,1,17,18.3,7
+19,279,30,2021-12-16,PHI,@,BRK,L 105-114,*,33:13,11,20,.550,1,3,.333,10,17,.588,.575,9,11,.818,0,9,9,6,1,0,2,4,32,25.9,-5
+20,280,31,2021-12-20,PHI,@,BOS,W 108-103,*,40:13,14,27,.519,1,5,.200,13,22,.591,.537,12,14,.857,0,10,10,5,2,4,5,3,41,32.0,4
+21,281,32,2021-12-23,PHI,,ATL,L 96-98,*,35:31,6,17,.353,2,2,1.000,4,15,.267,.412,9,10,.900,2,8,10,2,1,2,2,1,23,18.3,-11
+22,282,33,2021-12-26,PHI,@,WAS,W 117-96,*,30:39,12,17,.706,2,5,.400,10,12,.833,.765,10,11,.909,2,11,13,1,1,2,1,1,36,34.9,25
+23,283,34,2021-12-28,PHI,@,TOR,W 114-109,*,34:06,11,16,.688,2,3,.667,9,13,.692,.750,12,14,.857,2,9,11,4,1,1,2,2,36,34.2,-4
+24,284,35,2021-12-30,PHI,@,BRK,W 110-102,*,32:02,11,23,.478,3,5,.600,8,18,.444,.543,9,12,.750,2,5,7,1,3,1,2,1,34,26.0,0
+25,285,36,2022-01-03,PHI,,HOU,W 133-113,*,29:47,12,20,.600,1,2,.500,11,18,.611,.625,6,7,.857,5,10,15,10,1,2,6,2,31,30.5,20
+26,286,37,2022-01-05,PHI,@,ORL,W 116-106,*,33:14,12,22,.545,0,2,.000,12,20,.600,.545,7,10,.700,3,2,5,4,1,1,6,4,31,18.8,1
+27,287,38,2022-01-07,PHI,,SAS,W 119-100,*,31:57,10,23,.435,0,1,.000,10,22,.455,.435,11,15,.733,3,9,12,7,0,1,4,1,31,23.3,26
+28,288,39,2022-01-10,PHI,@,HOU,W 111-91,*,26:24,9,16,.563,0,1,.000,9,15,.600,.563,13,13,1.000,4,4,8,6,1,2,2,3,31,30.8,12
+29,289,40,2022-01-12,PHI,,CHO,L 98-109,*,32:41,10,17,.588,1,3,.333,9,14,.643,.618,10,14,.714,1,5,6,3,0,1,7,3,31,18.3,-16
+30,290,41,2022-01-14,PHI,,BOS,W 111-99,*,32:24,7,15,.467,2,7,.286,5,8,.625,.533,9,9,1.000,1,12,13,6,1,1,2,2,25,24.7,20
+31,291,42,2022-01-15,PHI,@,MIA,W 109-98,*,36:17,12,22,.545,0,3,.000,12,19,.632,.545,8,11,.727,3,9,12,3,1,1,2,2,32,26.0,16
+32,292,43,2022-01-17,PHI,@,WAS,L 98-117,*,29:18,10,20,.500,3,4,.750,7,16,.438,.575,9,10,.900,2,6,8,1,0,0,4,4,32,19.9,-16
+33,293,44,2022-01-19,PHI,,ORL,W 123-110,*,27:03,17,23,.739,1,4,.250,16,19,.842,.761,15,17,.882,1,11,12,2,1,3,2,3,50,45.2,24
+34,294,45,2022-01-21,PHI,,LAC,L 101-102,*,36:32,15,25,.600,3,3,1.000,12,22,.545,.660,7,10,.700,5,8,13,6,0,1,5,4,40,31.5,-6
+35,295,46,2022-01-23,PHI,@,SAS,W 115-109,*,31:40,16,32,.500,1,3,.333,15,29,.517,.516,5,6,.833,3,9,12,6,0,1,1,2,38,29.5,8
+36,296,47,2022-01-25,PHI,,NOP,W 117-107,*,33:10,12,24,.500,0,3,.000,12,21,.571,.500,18,20,.900,6,8,14,4,0,4,3,5,42,36.4,6
+37,297,48,2022-01-27,PHI,,LAL,W 105-87,*,34:40,9,20,.450,0,5,.000,9,15,.600,.450,8,13,.615,1,8,9,7,1,2,4,2,26,19.2,21
+38,298,49,2022-01-29,PHI,,SAC,W 103-101,*,34:55,10,18,.556,2,5,.400,8,13,.615,.611,14,18,.778,0,12,12,6,0,1,4,0,36,30.3,5
+38,,50,2022-01-31,PHI,,MEM,W 122-119 (OT),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+39,299,51,2022-02-02,PHI,,WAS,L 103-106,*,35:07,11,27,.407,0,3,.000,11,24,.458,.407,5,8,.625,3,11,14,6,1,1,0,3,27,21.4,4
+40,300,52,2022-02-04,PHI,@,DAL,L 98-107,*,33:00,7,17,.412,2,5,.400,5,12,.417,.471,11,14,.786,2,11,13,4,2,3,1,2,27,26.5,-17
+41,301,53,2022-02-06,PHI,@,CHI,W 119-108,*,32:01,14,23,.609,2,4,.500,12,19,.632,.652,10,11,.909,1,9,10,3,0,1,4,4,40,29.7,11
+42,302,54,2022-02-08,PHI,,PHO,L 109-114,*,32:31,13,25,.520,2,8,.250,11,17,.647,.560,6,6,1.000,1,11,12,3,3,0,2,3,34,27.6,-4
+43,303,55,2022-02-11,PHI,,OKC,W 100-87,*,34:38,8,25,.320,1,7,.143,7,18,.389,.340,8,11,.727,4,15,19,4,1,5,4,1,25,19.7,14
+44,304,56,2022-02-12,PHI,,CLE,W 103-93,*,32:46,11,22,.500,4,5,.800,7,17,.412,.591,14,15,.933,1,13,14,10,3,0,4,4,40,37.6,24
+45,305,57,2022-02-15,PHI,,BOS,L 87-135,*,26:21,3,9,.333,0,1,.000,3,8,.375,.333,13,16,.813,0,9,9,6,0,1,3,2,19,16.5,-34
+46,306,58,2022-02-17,PHI,@,MIL,W 123-120,*,37:03,14,21,.667,3,4,.750,11,17,.647,.738,11,14,.786,2,12,14,5,1,0,6,5,42,33.2,13
+47,307,59,2022-02-25,PHI,@,MIN,W 133-102,*,31:21,10,18,.556,3,5,.600,7,13,.538,.639,11,13,.846,0,10,10,3,1,0,2,3,34,27.5,25
+48,308,60,2022-02-27,PHI,@,NYK,W 125-109,*,36:08,7,18,.389,0,4,.000,7,14,.500,.389,23,27,.852,0,9,9,3,1,4,2,3,37,31.0,18
+49,309,61,2022-03-02,PHI,,NYK,W 123-108,*,34:46,7,15,.467,2,4,.500,5,11,.455,.533,11,13,.846,1,11,12,4,1,2,4,2,27,22.9,22
+50,310,62,2022-03-04,PHI,,CLE,W 125-119,*,36:07,7,14,.500,0,4,.000,7,10,.700,.500,8,9,.889,2,7,9,5,2,0,2,4,22,20.0,-1
+51,311,63,2022-03-05,PHI,@,MIA,L 82-99,*,36:09,4,15,.267,0,6,.000,4,9,.444,.267,14,14,1.000,5,10,15,2,2,0,4,3,22,17.8,-12
+52,312,64,2022-03-07,PHI,,CHI,W 121-106,*,36:20,15,27,.556,1,3,.333,14,24,.583,.574,12,16,.750,3,11,14,2,2,3,2,2,43,36.6,14
+53,313,65,2022-03-10,PHI,,BRK,L 100-129,*,30:29,5,17,.294,2,3,.667,3,14,.214,.353,15,19,.789,4,8,12,2,0,1,4,4,27,17.2,-30
+54,314,66,2022-03-13,PHI,@,ORL,W 116-114 (OT),*,41:17,9,28,.321,2,5,.400,7,23,.304,.357,15,17,.882,4,12,16,7,1,2,2,1,35,29.5,11
+55,315,67,2022-03-14,PHI,,DEN,L 110-114,*,36:19,11,20,.550,3,3,1.000,8,17,.471,.625,9,10,.900,3,6,9,4,1,2,5,5,34,26.1,2
+56,316,68,2022-03-16,PHI,@,CLE,W 118-114,*,34:31,13,19,.684,1,3,.333,12,16,.750,.711,8,10,.800,5,12,17,5,0,0,3,3,35,32.5,-1
+57,317,69,2022-03-18,PHI,,DAL,W 111-101,*,33:51,11,20,.550,2,6,.333,9,14,.643,.600,8,9,.889,0,8,8,4,5,1,6,3,32,25.7,5
+58,318,70,2022-03-20,PHI,,TOR,L 88-93,*,37:15,6,20,.300,0,3,.000,6,17,.353,.300,9,11,.818,1,12,13,2,1,1,1,3,21,13.8,7
+58,,71,2022-03-21,PHI,,MIA,W 113-106,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+59,319,72,2022-03-23,PHI,@,LAL,W 126-121,*,34:19,11,19,.579,0,1,.000,11,18,.611,.579,8,12,.667,4,6,10,3,3,3,2,4,30,27.7,2
+60,320,73,2022-03-25,PHI,@,LAC,W 122-97,*,27:54,9,19,.474,2,3,.667,7,16,.438,.526,7,8,.875,2,8,10,2,1,2,3,2,27,20.7,23
+61,321,74,2022-03-27,PHI,@,PHO,L 104-114,*,37:35,14,27,.519,1,5,.200,13,22,.591,.537,8,12,.667,7,8,15,2,3,2,4,2,37,30.4,-15
+62,322,75,2022-03-29,PHI,,MIL,L 116-118,*,38:35,11,21,.524,3,5,.600,8,16,.500,.595,4,6,.667,1,13,14,7,1,0,4,2,29,23.6,3
+63,323,76,2022-03-31,PHI,@,DET,L 94-102,*,36:33,11,19,.579,1,2,.500,10,17,.588,.605,14,16,.875,0,15,15,3,1,2,7,4,37,27.7,-1
+64,324,77,2022-04-02,PHI,,CHO,W 144-114,*,31:21,12,16,.750,1,3,.333,11,13,.846,.781,4,6,.667,2,12,14,6,0,0,4,2,29,26.2,26
+65,325,78,2022-04-03,PHI,@,CLE,W 112-108,*,38:03,12,26,.462,3,6,.500,9,20,.450,.519,17,20,.850,4,13,17,3,1,5,3,1,44,39.3,16
+66,326,79,2022-04-05,PHI,@,IND,W 131-122,*,38:39,18,30,.600,2,3,.667,16,27,.593,.633,7,10,.700,2,11,13,2,0,1,3,1,45,33.4,20
+67,327,80,2022-04-07,PHI,@,TOR,L 114-119,*,37:20,10,22,.455,0,4,.000,10,18,.556,.455,10,12,.833,0,10,10,2,1,1,5,2,30,18.1,8
+68,328,81,2022-04-09,PHI,,IND,W 133-120,*,36:58,14,17,.824,2,2,1.000,12,15,.800,.882,11,15,.733,5,15,20,4,2,1,5,4,41,40.0,11
+68,,82,2022-04-10,PHI,,DET,W 118-106,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
